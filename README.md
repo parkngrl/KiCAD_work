@@ -1,5 +1,6 @@
 # KiCAD_work
 echo "# KiCAD_work" >> README.md
+echo "My fist repository on GitHUB"
 git init
 git add README.md
 git commit -m "first commit"
